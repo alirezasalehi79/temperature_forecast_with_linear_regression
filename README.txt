@@ -1,0 +1,1 @@
+This code is a simple temperature forecast with a linear regression algorithm, first some pre-processing is done on its dataset, and finally MAE and r2 score, which are used to measure the accuracy of regression algorithms, are implemented for its data.
